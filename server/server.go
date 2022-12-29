@@ -18,6 +18,8 @@ import (
 	looks at where it should go, and directs it to the code that should 
 	give a response.
 
+	More information about serveMux
+	https://betterprogramming.pub/overview-of-server-side-http-apis-in-go-44f052737e4b
 
 */
 type Server struct {
